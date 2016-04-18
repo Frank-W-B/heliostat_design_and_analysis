@@ -1,4 +1,4 @@
-# heliostat_design_and_analysis
+# Heliostat Design and Analysis
 
 This respository contains samples of my work designing and analyzing heliostats for Abengoa.  Though much of the work is confidential, the samples provided were presented to DOE under contract and are in the public domain.
 
